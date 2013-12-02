@@ -1,0 +1,16 @@
+{
+  "name": "leap",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "leapjs": "0.2.2",
+    "ar-drone": "0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Pablo Pinilla Ossa",
+  "license": "BSD-2-Clause"
+}
